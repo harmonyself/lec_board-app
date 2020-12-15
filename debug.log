@@ -1,0 +1,5 @@
+[1214/192229.156:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\harmonyself\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8895da9c-b8e0-42fe-9187-d268f37b933d: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1214/193143.516:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\harmonyself\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6398f5ba-e127-4b41-9b99-6053e355983e: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1214/193143.526:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1215/170815.067:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1215/203557.519:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
